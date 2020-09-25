@@ -12,6 +12,8 @@ float stdFunction(int,int,int,int, float); // prototype for the population stand
 int main()
 {
 
+	//jijlhjk
+
 	//input variables
 	int value1;
 	int value2;
